@@ -6,7 +6,7 @@ printf("Enter the number");
 scanf("%d",&n);
 n=n1;
 while(n>0)
-{armstrong
+{
 rem=num%10;
 sum+=rem*rem*rem;
 num=num/10;
